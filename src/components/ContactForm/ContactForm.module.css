@@ -1,0 +1,26 @@
+.formContainer {
+  margin-bottom: 20px;
+}
+
+.label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.input {
+  width: 100%;
+  padding: 8px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.button {
+  padding: 8px 16px;
+  font-size: 16px;
+  background-color: rgb(23, 85, 228);
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
